@@ -1,0 +1,1 @@
+Exercício de projeto Blog para a rocketseat
